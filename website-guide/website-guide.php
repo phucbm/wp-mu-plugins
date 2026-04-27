@@ -4,8 +4,8 @@
 // =============================================================================
 
 define('GUIDE_BRAND_COLOR', '#1D6FA8');
-define('GUIDE_AUTHOR_NAME', 'Layơ Lab');
-define('GUIDE_CLIENT_NAME', 'DMD');
+define('GUIDE_AUTHOR_NAME', 'PHUCBM');
+define('GUIDE_CLIENT_NAME', 'CLIENT');
 // Set to a parent menu slug (e.g. 'theme-options') to nest as submenu, or '' for top-level.
 define('GUIDE_PARENT_SLUG', '');
 // =============================================================================
