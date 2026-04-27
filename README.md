@@ -36,6 +36,7 @@ define('DEV_CSS_MAP', [
 
 | File | What it does |
 |---|---|
+| [`website-guide-loader.php`](https://github.com/phucbm/wp-mu-plugins/blob/main/website-guide-loader.php) | Renders a branded, printable website handover guide in WP admin. Configure color/author/client in `website-guide/website-guide.php`. Content driven by PHP files in `website-guide/content/`. Drop screenshots in `website-guide/public/` to auto-show them. |
 | [`featured-image-column.php`](https://github.com/phucbm/wp-mu-plugins/blob/main/featured-image-column.php) | Adds a clickable featured image column to the WP admin post list. Click to open the media picker and set the image without entering the post. |
 | [`featured-posts.php`](https://github.com/phucbm/wp-mu-plugins/blob/main/featured-posts.php) | Adds a featured checkbox to posts via meta key `_featured`. Includes sortable admin column, quick edit support, and a settings page (Settings → Featured Posts) to enable per post type. |
 | [`editor-restrictions.php`](https://github.com/phucbm/wp-mu-plugins/blob/main/editor-restrictions.php) | Applies Gutenberg editor restrictions for non-administrator roles: disables code editor, block locking, and unfiltered HTML. Uncomment additional restrictions in the config array as needed. |
