@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Admin Page Guard
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/admin-page-guard.php
  * Description: Restricts access to specific admin pages — redirects unauthorized users to dashboard. Configure $allowed_users and $restricted_pages for each project.
  * Version: 1.0.0
  * Author: phucbm

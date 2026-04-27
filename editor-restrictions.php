@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Editor Restrictions
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/editor-restrictions.php
  * Description: Applies block editor restrictions for non-administrator roles. Disables code editor, block locking, and unfiltered HTML for editors/authors/contributors.
  * Version: 1.0.0
  * Author: phucbm

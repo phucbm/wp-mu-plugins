@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Tailwind Theme Loader
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/tailwind-theme-loader.php
  * Description: Automatically enqueue a Tailwind-built CSS file from the active theme on the frontend and inside the Gutenberg editor iframe. Supports per-developer CSS files for team environments.
  * Version: 1.0.0
  * Author: phucbm

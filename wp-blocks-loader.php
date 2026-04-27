@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Blocks Loader
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/wp-blocks-loader.php
  * Description: Registers ACF Gutenberg blocks from blocks.json, adds a project block category in the Gutenberg inserter, and ensures viewScripts load in the footer without WordPress's default defer strategy (WP 6.3+).
  * Version: 1.0.0
  * Author: phucbm

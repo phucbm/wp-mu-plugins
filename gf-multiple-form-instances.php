@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Multiple Form Instances for Gravity Forms
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/gf-multiple-form-instances.php
  * Description: Run multiple instances of the same Gravity Forms form on a single page (with AJAX) without conflicts.
  * Version: 2.0.0
  * Author: phucbm

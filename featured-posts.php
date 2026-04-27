@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Featured Posts
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/featured-posts.php
  * Description: Add a featured checkbox to posts with sortable admin column, quick edit support, and a settings page to enable per post type. Uses _featured meta key.
  * Version: 1.0.0
  * Author: phucbm

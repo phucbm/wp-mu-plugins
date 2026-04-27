@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: ACF Local JSON Router
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/acf-local-json-router.php
  * Description: Routes ACF field group JSON saves and loads to the correct location.
  *              Block groups → blocks/{slug}/fields.json (one file per block folder).
  *              All other groups (post types, pages, options pages, taxonomies, etc.)

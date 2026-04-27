@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Featured Image Column
- * Plugin URI:  https://github.com/phucbm/wp-mu-plugins
+ * Plugin URI:  https://github.com/phucbm/wp-mu-plugins/blob/main/featured-image-column.php
  * Description: Add featured image column to post list with quick edit functionality
  * Version: 1.0.0
  * Author: phucbm
